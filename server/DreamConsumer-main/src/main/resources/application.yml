@@ -14,7 +14,7 @@ mail:
     admin: admin@gmail.com
 
 jwt:
-  key : ${secrets.JWT_SECRET_KEY}
+  key : eunho081888180818eunho081888180818
   access-token-expiration-minutes : 30
   refresh-token-expiration-minutes : 420
 
